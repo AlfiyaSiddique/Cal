@@ -26,9 +26,9 @@ A clean, dynamic, and feature-rich Event Calendar application built using **Reac
 ### Data Persistence
 - All events are stored in **localStorage**, ensuring data is preserved between page refreshes.
 
-<!-- ## 🚀 Live Demo
-[Visit the Deployed App](#)  
-*(Replace `#` with your actual deployment link, e.g., from Vercel or Netlify.)* -->
+## 🚀 Live Demo
+[Visit the Deployed App](https://ephemeral-baklava-8404ce.netlify.app/)  
+*(Replace `#` with your actual deployment link, e.g., from Vercel or Netlify.)*
 
 ## 🛠️ Getting Started
 
@@ -44,12 +44,12 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/dynamic-event-calendar.git
-   cd dynamic-event-calendar
+   git clone git remote add origin https://github.com/AlfiyaSiddique/Cal.git
+   cd Cal
 
 2. **Install Dependencies:**:
    ```bash
-  npm install 
+    npm install 
 
 3. **Run the Development Server:**:
    ```bash
